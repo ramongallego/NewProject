@@ -1,5 +1,14 @@
 # NewProject
 
+## How to use it
+
+Fork this (or jimmy's from https://github.com/jimmyodonnell/NewProject) to your github, and then
+
+go to `Settings` and check `Template repository`.
+
+THen, when you start a new repository, select this repository in the drop down menu
+
+
 So, you want to "do the science", eh? This is a template for starting a new project in an organized fashion. I set this up in order to streamline project management. I'd love to hear any feedback you might have. - [Jimmy O'Donnell](mailto:jodonnellbio@gmail.com)
 
 The general directory structure is:
@@ -27,13 +36,13 @@ The general directory structure is:
 - **Documents/**
 
   All documentation (except the project readme), with at least one subdirectory for the manuscript.
-  
+
   - **Proposal/** (*optional*)
-  
+
     If there is a funding proposal, keep it here. You could start every project in this format right from the start of proposal writing, but at the very least, the proposal should be stored here so that collaborators are all on the same page regarding what products were promised.
 
   - **References/** (*optional*)
-    
+
     I almost never use this now, but some people love keeping PDFs in the project directory. This could be nice for sharing newly discovered papers among collaborators, but I think it's a recipe for excessive duplication on your computer.
 
   - **Manuscript/**
