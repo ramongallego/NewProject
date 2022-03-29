@@ -1,5 +1,7 @@
 # NewProject
 
+A template for all your new projects
+
 ## How to use it
 
 Fork this (or jimmy's from https://github.com/jimmyodonnell/NewProject) to your github, and then
