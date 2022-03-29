@@ -1,6 +1,6 @@
 # NewProject
 
-A template for all your new projects
+A template for all your new projects. to force some order.
 
 ## How to use it
 
